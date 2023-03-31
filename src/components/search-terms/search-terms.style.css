@@ -1,0 +1,23 @@
+.search-box {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    width: 450px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    border: 3px solid #0ccac4;
+}
+
+input {
+    text-align: center;
+  }
+  
+  ::-webkit-input-placeholder {
+    text-align: center;
+  }
+  
+  :-moz-placeholder {
+    text-align: center;
+  }
